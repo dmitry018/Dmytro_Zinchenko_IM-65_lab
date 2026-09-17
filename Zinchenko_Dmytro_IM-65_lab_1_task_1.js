@@ -10,5 +10,5 @@ function incObj(obj) {
 obj.n++;
 }
 const myObj = {n: 8};
-inc(myObj);
+incObj(myObj);
 console.dir(myObj);
