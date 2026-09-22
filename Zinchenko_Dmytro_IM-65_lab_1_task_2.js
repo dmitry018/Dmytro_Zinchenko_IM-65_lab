@@ -9,7 +9,7 @@ obj[type]++;
 
 console.dir(obj);
 
-
+// без ключів
 const dynamicObj = {};
 
 for(const item1 of array) {
