@@ -5,7 +5,7 @@ const a = 23;
 const b = inc(a);
 console.dir({a, b});
 
-
+// завдання друге
 function incObj(obj) {
 obj.n++;
 }
